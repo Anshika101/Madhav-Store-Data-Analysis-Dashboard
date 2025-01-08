@@ -14,4 +14,7 @@ Used different types of cutomiszed visualisations(bar charts, pie charts, donut 
 4. Who purchased more Vrinda or Abhijeet?
 5. Highest selling Sub category?
 6. Which is the most and least preferred payment mode?
-7. - Dashboard interaction <a href="https://github.com/Anshika101/Madhav-Store-Data-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
+ - Dashboard interaction <a href="https://github.com/Anshika101/Madhav-Store-Data-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
+ ## Dashboard
+ ![Dashboard Image](https://github.com/user-attachments/assets/a84e9af5-a464-4b5f-be47-e2e0ffc00d6d)
+
