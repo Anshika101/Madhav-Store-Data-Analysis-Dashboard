@@ -17,4 +17,6 @@ Used different types of cutomiszed visualisations(bar charts, pie charts, donut 
  - Dashboard interaction <a href="https://github.com/Anshika101/Madhav-Store-Data-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
  ## Dashboard
  ![Dashboard Image](https://github.com/user-attachments/assets/a84e9af5-a464-4b5f-be47-e2e0ffc00d6d)
+ ## Conclusion
+ to improve the sales of Madhav Store, a strategic marketing plan focused on customers residing in Maharashtra,Madhya Pradesh and Uttar Pradesh should be implemented. This demographic represents a key customer segment, as they often make significant household and lifestyle purchases.The appproach should include targeted digital marketing campaigns and pursonalised promotions to capture their attention.
 
