@@ -7,3 +7,11 @@ Used different types of cutomiszed visualisations(bar charts, pie charts, donut 
 ## Datasets used-
 - <a href="https://github.com/Anshika101/Madhav-Store-Data-Analysis-Dashboard/blob/main/Details.csv">Dataset</a>
 - <a href="https://github.com/Anshika101/Madhav-Store-Data-Analysis-Dashboard/blob/main/Orders.csv">Dataset</a>
+## Questions(KPIs)
+1. What are the top 5 performing products by sales?
+2. Which month got the highest sales and order(profit)?
+3. List top 5 states contributing to the sales?
+4. Who purchased more Vrinda or Abhijeet?
+5. Highest selling Sub category?
+6. Which is the most and least preferred payment mode?
+7. - Dashboard interaction <a href="https://github.com/Anshika101/Madhav-Store-Data-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
